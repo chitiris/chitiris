@@ -12,6 +12,7 @@
 | Project | Description |
 |---|---|
 | **[Project-Career-Informatics](https://github.com/chitiris/Project-Career-Informatics)** · [🌐 Live](https://chitiris.github.io/Project-Career-Informatics/) | Interactive board of career paths for Informatics graduates in Greece: 20 fields and 124 job roles, with duties, skills and job descriptions. |
+| **[Citizension of Smart Cities](https://github.com/Citizension-of-Smart-Cities)** · [🌐 Website](https://ieee.cs.uowm.gr/citizension/) | Educational IoT and smart-city project for teachers and students: hands-on Arduino scenarios and the Smart Kozani IoT System for local air-quality and noise monitoring. |
 | **[Arduino-and-IoT](https://github.com/chitiris/Arduino-and-IoT)** | An Arduino learning path: from first circuits in Tinkercad to sending sensor data to the cloud with ThingSpeak and Ubidots. |
 
 ### 🛠️ Languages & Tools
