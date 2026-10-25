@@ -3,7 +3,7 @@
 
 ### 🔬 Research
 
-- 🔭 Research interests: **Internet of Things** and **Machine Learning**
+- 🔭 PhD research: *Applying Machine Learning Methods for the Massive Internet of Things*
 - 🆔 ORCID: [0009-0007-1872-5690](https://orcid.org/0009-0007-1872-5690)
 - 💬 Ask me about **Arduino and Internet of Things**
 
